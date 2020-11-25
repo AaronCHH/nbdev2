@@ -1,5 +1,6 @@
 {
   "Notebook": {
+    "Page2":"Page2",
     "Export to modules": "/export",
     "Convert to html": "/export2html",
     "Show doc": "/showdoc",
