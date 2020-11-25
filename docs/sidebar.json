@@ -1,7 +1,8 @@
 {
   "Notebook": {
-    "Page2":"/Page2",
-    "Page3":"/Page3",
+    "Page2":"Page2",
+    "Page3":"Page3",
+    "Page4":"Page4",
     "Export to modules": "/export",
     "Convert to html": "/export2html",
     "Show doc": "/showdoc",

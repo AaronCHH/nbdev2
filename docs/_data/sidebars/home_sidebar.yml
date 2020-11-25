@@ -10,6 +10,9 @@ entries:
       title: Page2
       url: /Page2
     - output: web,pdf
+      title: Page3
+      url: /Page3
+    - output: web,pdf
       title: Export to modules
       url: /export
     - output: web,pdf
