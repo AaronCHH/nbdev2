@@ -8,7 +8,7 @@ entries:
   - folderitems:
     - output: web,pdf
       title: Page2
-      url: Page2
+      url: /Page2
     - output: web,pdf
       title: Export to modules
       url: /export
